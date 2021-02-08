@@ -1,17 +1,17 @@
 {
   "courses": [
     {
-      "courseId": 261207,
+      "courseId": "261207",
       "courseName": "Basic CPE LAB",
       "credit": 2,
       "gpa": 3.5
     },
     {
-      "courseId": 261208,
-      "courseName": "Numerical for comp and engr",
+      "courseId": "261216",
+      "couresName": "Discrete",
       "credit": 3,
-      "gpa": 4
+      "gpa": 2
     }
   ],
-  "gpax": 3.8
+  "gpax": "2.60"
 }
